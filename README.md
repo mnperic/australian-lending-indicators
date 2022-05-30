@@ -1,5 +1,5 @@
 # Australian Lending Indicators
-A study of Australan new-borrower-accepted finance commitments for housing, personal and business loans.
+A study of Australian new-borrower-accepted finance commitments for housing, personal and business loans.
 
 ## Overview
 This project utilised data retrieved from the Australian Bureau of Statistics (ABS) and Finder.com.au to analyse data relating to borrower-accepted finance commitments for housing, personal and business loans. 
