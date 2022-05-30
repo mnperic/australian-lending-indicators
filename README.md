@@ -2,7 +2,9 @@
 A study of Australan new-borrower-accepted finance commitments for housing, personal and business loans.
 
 ## Overview
-This project utilised data retrieved from the Australian Bureau of Statistics (ABS) and Finder.com.au to analyse data relating to borrower-accepted finance commitments for housing, personal and business loans. The project also analysed first-home buyer commitments during the period of <b>2004 to 2022</b>. 
+This project utilised data retrieved from the Australian Bureau of Statistics (ABS) and Finder.com.au to analyse data relating to borrower-accepted finance commitments for housing, personal and business loans. 
+
+The project also analysed first-home buyer commitments during the period of <b>2004 to 2022</b>. 
 
 ## New borrower-accepted loan commitments
 ### Total
